@@ -6,9 +6,9 @@ This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 In the project directory, you can run:
 
-\`\`\`bash
+```bash
 npm start
-\`\`\`
+```
 
 Runs the app in development mode using Vite.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -16,16 +16,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will automatically reload when you make changes.\
 You may also see any lint errors in the console.
 
-\`\`\`bash
+```bash
 npm test
-\`\`\`
+```
 
 Launches the test runner in interactive watch mode.\
 See the section about [running tests](https://vitejs.dev/guide/testing) for more information.
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 Builds the app for production to the \`dist\` folder.\
 It correctly bundles React and optimizes the build for the best performance.
